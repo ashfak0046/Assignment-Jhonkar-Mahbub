@@ -45,6 +45,7 @@ section{
 }
 #center{
     text-align: center;
+    margin-top: 7%;
 }
 .lower-part h1{
     font-size: 30px;
@@ -55,22 +56,63 @@ section{
 }
 .lower-part img{
     width: 100%;
+    margin-top: 5%;
+   
 }
 .lower-part{
     border-radius: 5px;
     width:25%;
     height:100%;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 35px gray;
+}
+.working-area{
+    height: 300px;
+    margin-bottom: 150px;
+    
 }
 .working{
+    margin-left: 18%;
+    margin-top: 10%;
+    width: 60%;
+    height: 75%;
     background-image: url("img/Group_33094_1.png");
-    background-position: center;
     background-repeat: no-repeat;
-   
+    background-size: 100%;
+    
+}
+.button{
+    float:right;
+    margin: 10% 5%;
 }
 .working h1{
-
+    font-size: 40px;
+    margin:4% 5%;
+    padding: 5% 2%;
+    float: left;
+    color:rgb(228, 230, 240);
+    
 }
+.footer{
+    text-align: center;
+    
+}
+#dim-grey{
+    font-size: 20px;
+    color:dimgray;
+    font-weight: bold;
+}
+.footer p{
+    color:gray;
+    font-weight:bold;
+    font-size: 20px;
+}
+.footer img{
+    width:3.9%;
+    height: 6%;
+    
+}
+
+
 
 
 
